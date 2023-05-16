@@ -8,7 +8,6 @@ I've been programming as a professional software developer for 4years+ now. I in
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [stephenilori458@gmail.com](mailto:stephenilori458@gmail.com)
-* 🚀  I'm currently working on [Coachli](http://coachli.co)
 * 🧠  I'm learning Data Structures & Algorithm
 * 🤝  I'm open to collaborating on an interesting C# project.
 * ⚡  I am a GOW fanboy. Whispers; I still think it's the best game ever.
